@@ -10,6 +10,18 @@ title: Lobstars - A ultimate frisbee team for everybody
 
 [Instagram](https://www.instagram.com/lobstarsfrisbee/) 
 
+## Write to us
+
+<!-- modify this form HTML and place wherever you want your form -->
+<form action="https://formbold.com/s/oWqkp" method="POST">
+  <input type="email" placeholder="Email" name="email">
+  <input type="text" placeholder="Subject" name="subject">
+  <textarea name="message" placeholder="Type your message"></textarea>
+
+  <!-- your other form fields go here -->
+  <button type="submit">Send Message</button>
+</form>
+
 ## Trainings
 
 - Write to us to join
